@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import Signup from  './signUp'
 import './App.css';
 
